@@ -2,8 +2,7 @@
 How to use Object Storage Service
 
 ## create bucket
-[https://oss.console.alibabacloud.com/](https://oss.console.alibabacloud.com/bucket)
-
+[https://oss.console.alibabacloud.com/](https://oss.console.alibabacloud.com/bucket)  
 Create Bucket -> Bucket Name -> Region -> Create
 
 #### access control list ACL
