@@ -6,13 +6,13 @@ How to use Object Storage Service
 Create Bucket -> Bucket Name -> Region -> Create
 
 #### access control list ACL
-Block Public Access
+Block Public Access:
 Enabled
 
-Bucket ACL
+Bucket ACL:
 Public Read
 
-Bucket Policy
+Bucket Policy:
 Authorized User -> RAM User
 
 ## create RAM user
